@@ -1,0 +1,147 @@
+[
+  {
+    "name": "General",
+    "perks": [
+      "Bitter Murmur",
+      "Claustrophobia",
+      "Deerstalker",
+      "Distressing",
+      "Fearmonger",
+      "Hex: No One Escapes Death",
+      "Hex: Thrill Of The Hunt",
+      "Insidious",
+      "Iron Grasp",
+      "Jolt",
+      "Scourge Hook: Monstrous Shrine",
+      "Shattered Hope",
+      "Sloppy Butcher",
+      "Spies From The Shadows",
+      "Unrelenting",
+      "Whispers"
+    ]
+  },
+  {
+    "name": "Trapper",
+    "perks": ["Unnerving Presence", "Brutal Strength", "Agitation"]
+  },
+  {
+    "name": "Wraith",
+    "perks": ["Predator", "Bloodhound", "Shadowborn"]
+  },
+  {
+    "name": "Hillbilly",
+    "perks": ["Enduring", "Lightborn", "Tinkerer"]
+  },
+  {
+    "name": "Nurse",
+    "perks": ["Stridor", "Thanatophobia", "A Nurse's Calling"]
+  },
+  {
+    "name": "Shape",
+    "perks": ["Save The Best For Last", "Play With Your Food", "Dying Light"]
+  },
+  {
+    "name": "Hag",
+    "perks": ["Hex: The Third Seal", "Hex: Ruin", "Hex: Devour Hope"]
+  },
+  {
+    "name": "Doctor",
+    "perks": ["Overwhelming Presence", "Monitor & Abuse", "Overcharge"]
+  },
+  {
+    "name": "Huntress",
+    "perks": [
+      "Beast Of Prey",
+      "Territorial Imperative",
+      "Hex: Huntress Lullaby"
+    ]
+  },
+  {
+    "name": "Cannibal",
+    "perks": ["Knock Out", "BBQ & Chilli", "Franklin's Demise"]
+  },
+  {
+    "name": "Nightmare",
+    "perks": ["Fire Up", "Remember Me", "Blood Warden"]
+  },
+  {
+    "name": "Pig",
+    "perks": ["Hangman's Trick", "Surveillance", "Make Your Choice"]
+  },
+  {
+    "name": "Clown",
+    "perks": ["Bamboozle", "Coulrophobia", "Pop Goes The Weasel"]
+  },
+  {
+    "name": "Spirit",
+    "perks": ["Spirit Fury", "Hex: Haunted Ground", "Rancor"]
+  },
+  {
+    "name": "Legion",
+    "perks": ["Discordance", "Mad Grit", "Iron Maiden"]
+  },
+  {
+    "name": "Plague",
+    "perks": ["Corrupt Intervention", "Infectious Fright", "Dark Devotion"]
+  },
+  {
+    "name": "Ghost Face",
+    "perks": ["I'm All Ears", "Thrilling Tremors", "Furtive Chase"]
+  },
+  {
+    "name": "Oni",
+    "perks": ["Zanshin Tactics", "Blood Echo", "Nemesis"]
+  },
+  {
+    "name": "Deathslinger",
+    "perks": ["Gearhead", "Dead Man's Switch", "Hex: Retribution"]
+  },
+  {
+    "name": "Executioner",
+    "perks": ["Forced Penance", "Trail of Torment", "Deathbound"]
+  },
+  {
+    "name": "Blight",
+    "perks": ["Dragon's Grip", "Hex: Undying", "Hex: Blood Favor"]
+  },
+  {
+    "name": "Twins",
+    "perks": ["Hoarder", "Oppression", "Coup de Grâce"]
+  },
+  {
+    "name": "Trickster",
+    "perks": ["Starstruck", "Hex: Crowd Control", "No Way Out"]
+  },
+  {
+    "name": "Nemesis",
+    "perks": ["Lethal Pursuer", "Hysteria", "Eruption"]
+  },
+  {
+    "name": "Cenobite",
+    "perks": ["Deadlock", "Hex: Plaything", "Scourge Hook: Gift Of Pain"]
+  },
+  {
+    "name": "Artist",
+    "perks": ["Grim Embrace", "Scourge Hook: Pain Resonance", "Hex: Pentimento"]
+  },
+  {
+    "name": "Onryō",
+    "perks": [
+      "Scourge Hook: Floods Of Rage",
+      "Call Of Brine",
+      "Merciless Storm"
+    ]
+  },
+  {
+    "name": "Dredge",
+    "perks": ["Dissolution", "Darkness Revealed", "Septic Touch"]
+  },
+  {
+    "name": "Mastermind",
+    "perks": ["Superior Anatomy", "Awakened Awareness", "Terminus"]
+  },
+  {
+    "name": "Knight",
+    "perks": ["Nowhere To Hide", "Hex: Face The Darkness", "Hubris"]
+  }
+]

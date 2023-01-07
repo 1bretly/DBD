@@ -1,0 +1,155 @@
+[
+  {
+    "name": "General",
+    "perks": [
+      "Dark Sense",
+      "Déjà Vu",
+      "Guardian",
+      "Hope",
+      "Inner Healing",
+      "Kindred",
+      "Kinship",
+      "Lightweight",
+      "No One Left Behind",
+      "Plunderer's Instinct",
+      "Premonition",
+      "Renewal",
+      "Resilience",
+      "Self-Aware",
+      "Situational Awarenes",
+      "Slippery Meat",
+      "Small Game",
+      "Spine Chill",
+      "This Is Not Happening",
+      "We'll Make It"
+    ]
+  },
+  {
+    "name": "Dwight",
+    "perks": ["Bond", "Prove Thyself", "Leader"]
+  },
+  {
+    "name": "Meg",
+    "perks": ["Quick & Quite", "Sprint Burst", "Adrenaline"]
+  },
+  {
+    "name": "Claudette",
+    "perks": ["Empathy", "Botany Knowledge", "Self-Care"]
+  },
+  {
+    "name": "Jake",
+    "perks": ["Iron Will", "Calm Spirit", "Saboteur"]
+  },
+  {
+    "name": "Nea",
+    "perks": ["Balanced Landing", "Urban Evasion", "Streetwise"]
+  },
+  {
+    "name": "Laurie",
+    "perks": ["Sole Survivor", "Object of Obsession", "Decisive Strike"]
+  },
+  {
+    "name": "Ace",
+    "perks": ["Open-Handed", "Up The Ante", "Ace In The Hole"]
+  },
+  {
+    "name": "Bill",
+    "perks": ["Left Behind", "Borrowed Time", "Unbreakable"]
+  },
+  {
+    "name": "Feng",
+    "perks": ["Technician", "Lithe", "Alert"]
+  },
+  {
+    "name": "David",
+    "perks": ["We're Gonna Live Forever", "Dead Hard", "No Mither"]
+  },
+  {
+    "name": "Quentin",
+    "perks": ["Wake Up!", "Pharmacy", "Vigil"]
+  },
+  {
+    "name": "Tapp",
+    "perks": ["Tenacity", "Detective's Hunch", "Stake Out"]
+  },
+  {
+    "name": "Kate",
+    "perks": ["Dance With Me", "Windows of Opportunity", "Boil Over"]
+  },
+  {
+    "name": "Adam",
+    "perks": ["Diversion", "Deliverance", "Autodidact"]
+  },
+  {
+    "name": "Jeff",
+    "perks": ["Breakdown", "Aftercare", "Distortion"]
+  },
+  {
+    "name": "Jane",
+    "perks": ["Solidarity", "Poised", "Head On"]
+  },
+  {
+    "name": "Ashley",
+    "perks": ["Flip-Flop", "Buckle Up", "Mettle of Man"]
+  },
+  {
+    "name": "Yui",
+    "perks": ["Lucky Break", "Any Means Necessary", "Breakout"]
+  },
+  {
+    "name": "Zarina",
+    "perks": ["Off The Record", "Red Herring", "For The People"]
+  },
+  {
+    "name": "Cheryl",
+    "perks": ["Soul Guard", "Blood Pact", "Repressed Alliance"]
+  },
+  {
+    "name": "Felix",
+    "perks": ["Visonary", "Desperate Measures", "Built To Last"]
+  },
+  {
+    "name": "Élodie",
+    "perks": ["Appraisal", "Deception", "Power Struggle"]
+  },
+  {
+    "name": "Yun-Jin",
+    "perks": ["Fast Track", "Smash Hit", "Self-Preservation"]
+  },
+  {
+    "name": "Jill",
+    "perks": ["Counterforce", "Resurgence", "Blast Mine"]
+  },
+  {
+    "name": "Leon",
+    "perks": ["Bite The Bullet", "Flashbang", "Rookie Spirit"]
+  },
+  {
+    "name": "Mikaela",
+    "perks": ["Clairvoyance", "Boon: Circle of Healing", "Boon: Shadow Step"]
+  },
+  {
+    "name": "Jonah",
+    "perks": ["Overcome", "Corrective Action", "Boon: Exponential"]
+  },
+  {
+    "name": "Yoichi",
+    "perks": ["Parental Guidance", "Empathic Connection", "Boon: Dark Theory"]
+  },
+  {
+    "name": "Haddie",
+    "perks": ["Inner Focus", "Residual Manifest", "Overzealous"]
+  },
+  {
+    "name": "Ada",
+    "perks": ["Wiretap", "Reactive Healing", "Low Profile"]
+  },
+  {
+    "name": "Rebecca",
+    "perks": ["Better Than New", "Reassurance", "Hyperfocus"]
+  },
+  {
+    "name": "Vittorio",
+    "perks": ["Potential Energy", "Fogwise", "Quick Gambit"]
+  }
+]
