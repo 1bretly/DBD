@@ -1,0 +1,15 @@
+fetch("https://dbdperks.cyclic.app/killer-perks")
+  .then((res) => res.json())
+  .then((data) => {
+    data = data
+      .reduce((acc, curr) => [...acc, ...curr.perks], [])
+      .map((el) => ({ el, sort: Math.random() }))
+      .sort((a, b) => a.sort - b.sort)
+      .map(({ el }) => el)
+      .splice(0, 4)
+      .toString()
+      .replaceAll(",", ", ")
+    const perks = document.getElementById("perks")
+    perks.append(data)
+    console.log(data)
+  })
